@@ -1,0 +1,5 @@
+Credentials cache: API:55FB5975-946A-48F4-B1EB-B75F88A04997
+        Principal: nhamdan@42NICE.FR
+
+  Issued                Expires               Principal
+Sep  7 13:00:04 2021  Sep  7 22:59:55 2021  krbtgt/42NICE.FR@42NICE.FR
